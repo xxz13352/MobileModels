@@ -497,11 +497,29 @@
 
 `LMR-AL10`: HUAWEI Pura 80 Ultra
 
+**HUAWEI Pura 90 (`Klee`):**
+
+`KEE-AL00`: HUAWEI Pura 90
+
+**HUAWEI Pura 90 Pro (`Malena`):**
+
+`MLN-AL00`: HUAWEI Pura 90 Pro
+
+**HUAWEI Pura 90 Pro Max (`Sicilia`):**
+
+`SCA-AL00`: HUAWEI Pura 90 Pro Max
+
 **HUAWEI Pura X (`Verde`):**
 
 `VDE-AL00`: HUAWEI Pura X
 
 `VDE-AL10`: HUAWEI Pura X 典藏版
+
+**HUAWEI Pura X Max (`Hope`):**
+
+`HOP-AL00`: HUAWEI Pura X Max
+
+`HOP-AL10`: HUAWEI Pura X Max 典藏版
 
 ## HUAWEI Pocket 系列
 
@@ -1109,9 +1127,9 @@
 
 `JUY-AL80`: 华为畅享 90
 
-**华为畅享 90 Plus (`Judy`):**
+**华为畅享 90 Plus / 华为畅享 90m Plus (`Judy`):**
 
-`JUY-AL50`: 华为畅享 90 Plus
+`JUY-AL50`: 华为畅享 90 Plus / 华为畅享 90m Plus
 
 **华为畅享 90 Pro Max (`Chenzhen`):**
 
@@ -1762,6 +1780,12 @@
 `FLMH-16`: HUAWEI MateBook 14 酷睿 Ultra (16GB 内存)
 
 `FLMH-32`: HUAWEI MateBook 14 酷睿 Ultra (32GB 内存)
+
+**HUAWEI MateBook 14 鸿蒙版:**
+
+`MNTXM-24A`: HUAWEI MateBook 14 鸿蒙版 (24GB 内存)
+
+`MNTXM-32A`: HUAWEI MateBook 14 鸿蒙版 (32GB 内存)
 
 **HUAWEI MateBook 14s (`HookeD`):**
 
@@ -2501,6 +2525,16 @@
 
 `HD85KLY26A`: 华为 Vision 智慧屏 6 SE 85
 
+**华为 Vision 智慧屏 6 Pro:**
+
+`HD1XAJMS`: 华为 Vision 智慧屏 6 Pro 65
+
+`HD77AJMS`: 华为 Vision 智慧屏 6 Pro 75
+
+`HD85AJMS`: 华为 Vision 智慧屏 6 Pro 85
+
+`HD98AJMS`: 华为 Vision 智慧屏 6 Pro 98
+
 **华为智慧屏 B 系列:**
 
 `HD55DESB`: 华为智慧屏 B3-500
@@ -2597,6 +2631,8 @@
 
 `LNG-AL00`: HUAWEI WATCH ULTIMATE DESIGN 非凡大师 紫金款
 
+`CHC-AL00`: HUAWEI WATCH ULTIMATE DESIGN 非凡大师 星钻绽放
+
 **HUAWEI WATCH GT:**
 
 `ELA-B19`: HUAWEI WATCH GT 雅致款
@@ -2685,6 +2721,10 @@
 
 `RUN-B19` `RUN-B29`: HUAWEI WATCH GT Runner
 
+**HUAWEI WATCH GT Runner 2:**
+
+`CHT-B19`: HUAWEI WATCH GT Runner 2
+
 **HUAWEI WATCH GT 2022 典藏版:**
 
 `OCF-B29`: HUAWEI WATCH GT 2022 典藏版
@@ -2721,6 +2761,14 @@
 
 `SYA-B29`: HUAWEI WATCH FIT 4 Pro
 
+**HUAWEI WATCH FIT 5:**
+
+`NKI-B19`: HUAWEI WATCH FIT 5
+
+**HUAWEI WATCH FIT 5 Pro:**
+
+`NKI-B29`: HUAWEI WATCH FIT 5 Pro
+
 **HUAWEI WATCH D:**
 
 `MLY-B10`: HUAWEI WATCH D 黑色氟橡胶表带
@@ -2738,6 +2786,10 @@
 **HUAWEI WATCH Buds (`Saga`):**
 
 `SGA-B19`: HUAWEI WATCH Buds
+
+**HUAWEI WATCH Buds 2:**
+
+`LBA-B19`: HUAWEI WATCH Buds 2
 
 **HUAWEI WATCH B5 (`Milo`):**
 
@@ -2954,6 +3006,10 @@
 **HUAWEI Vision Glass:**
 
 `ALI-CG01`: HUAWEI Vision Glass
+
+**华为 AI 眼镜:**
+
+`AIL-G01`: 华为 AI 眼镜
 
 ## 华为早期手机产品 
 
