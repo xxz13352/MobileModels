@@ -1,4 +1,8 @@
 # CHANGELOG
+### 2026-04-22
+- `honor_global_en` Add several models and codenames.
+- `mitv_global_en` Add 2026 models.
+- `oppo_global_en` Add OPPO Pad 5.
 ### 2026-04-21
 - `xiaomi_en` Add REDMI K90 Max, K Pad 2, Pad 2 SE, Note 15 SE, 15A 5G, A7 Pro 5G, POCO M8s.
 ### 2026-04-17 
