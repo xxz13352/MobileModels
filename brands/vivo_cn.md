@@ -261,6 +261,10 @@
 
 `V2547DA`: vivo X300 Ultra 卫星通信版
 
+**vivo X Fold6 (`PD2545`):**
+
+`V2545A`: vivo X Fold6
+
 ## vivo S 系列
 
 **vivo S1 (`PD1831`):**
@@ -1252,6 +1256,10 @@
 **iQOO Z11x (`PD2532`):**
 
 `V2532A`: iQOO Z11x
+
+**iQOO Z11i (`PD2559`):**
+
+`V2559UA`: iQOO Z11i
 
 ## iQOO U 系列
 
