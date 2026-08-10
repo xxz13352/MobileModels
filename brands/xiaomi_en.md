@@ -1225,11 +1225,27 @@
 
 `25082RNC1C`: REDMI 15R 5G China
 
-**[`P25`] REDMI 15A 5G / REDMI 17 5G (`somalia`):**
+**[`P25X`] REDMI 15A 5G / REDMI 17 5G (`somalia`):**
 
 `2602BRNA4I`: REDMI 15A 5G India
 
 `2602BRNA4C`: REDMI 17 5G China
+
+**[`Q15`] REDMI 17 5G (`steppe`) (`leeds`):**
+
+`26062RN92G`: REDMI 17 5G Global
+
+`26062RN92I`: REDMI 17 5G India
+
+**[`Q15A`] REDMI 17:**
+
+`2606FRN72Y`: REDMI 17 Global
+
+`2606FRN72L`: REDMI 17 Latin America
+
+**[`P15R`] REDMI 17C 5G (`tornado`):**
+
+`2607FRNEAG`: REDMI 17C 5G Global
 
 **[`H3W`] Redmi Note (`lcsh92_wet_gb9`):**
 
@@ -2047,6 +2063,14 @@
 
 `M332BF`: REDMI K90 Ultra China
 
+**[`Q11`] REDMI K100 Pro (`athens`):**
+
+`M511CD`: REDMI K100 Pro China
+
+**[`Q11X`] REDMI K100 Pro Max (`songyuan`):**
+
+`M098FE`: REDMI K100 Pro Max China
+
 **[`H3C`] Redmi Pro (`omega`):**
 
 `2016020`: Redmi Pro (32GB)
@@ -2164,6 +2188,10 @@
 `26020RN1AI`: REDMI A7 Pro 5G India
 
 `26020RN1AC`: REDMI R70 5G China / REDMI R70m 5G China
+
+**[`Q15`] REDMI M100 (`steppe`) (`leeds`):**
+
+`26062RN92C`: REDMI M100 China
 
 ## POCO Phones
 
@@ -2449,7 +2477,11 @@
 
 **[`P19P`] POCO M8 Power (`mist`):**
 
-`26021PC18I`: POCO M8 Power India
+`26021PC18I`: POCO M8 Power 5G India
+
+**[`Q15`] REDMI M8x (`steppe`) (`leedsp`):**
+
+`26062PC92I`: POCO M8x 5G India
 
 **[`C3M`] POCO C3 (`angelicain`):**
 
