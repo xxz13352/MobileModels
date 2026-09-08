@@ -2345,6 +2345,34 @@
 
 `HD1XEDIJ`: 华为智慧屏 MateTV Max 110 英寸
 
+**华为智慧屏 MateTV 2:**
+
+`HD65EDIN`: 华为智慧屏 MateTV 2 65 英寸
+
+`HD65FARN`: 华为智慧屏 MateTV 2 悦享版 65 英寸
+
+`HD75EDIN`: 华为智慧屏 MateTV 2 75 英寸
+
+`HD75FARN`: 华为智慧屏 MateTV 2 悦享版 75 英寸
+
+`HD8XEDIN`: 华为智慧屏 MateTV 2 85 英寸
+
+`HD8XFARN`: 华为智慧屏 MateTV 2 悦享版 85 英寸
+
+`HD98EDIN`: 华为智慧屏 MateTV 2 98 英寸
+
+**华为智慧屏 MateTV 2 Pro:**
+
+`HD75EDIM`: 华为智慧屏 MateTV 2 Pro 75 英寸
+
+`HD8XEDIM`: 华为智慧屏 MateTV 2 Pro 85 英寸
+
+`HD98EDIM`: 华为智慧屏 MateTV 2 Pro 98 英寸
+
+**华为智慧屏 MateTV 2 Max:**
+
+`HD1XEDIM`: 华为智慧屏 MateTV 2 Max 110 英寸
+
 **华为智慧屏 S 系列 (`Kant`):**
 
 `HD55KANB`: 华为智慧屏 S 55 60Hz (3GB+16GB)
@@ -2605,11 +2633,19 @@
 
 `HD6XWATN`: 华为 Vision 智慧屏 6 65
 
+`HD1XWATN`: 华为 Vision 智慧屏 6 悦享版 65
+
 `HD7XWATN`: 华为 Vision 智慧屏 6 75
+
+`HD77WATN`: 华为 Vision 智慧屏 6 悦享版 75
 
 `HD8XWATN`: 华为 Vision 智慧屏 6 85
 
+`HD85WATN`: 华为 Vision 智慧屏 6 悦享版 85
+
 `HD9XWATN`: 华为 Vision 智慧屏 6 98
+
+`HD98WATN`: 华为 Vision 智慧屏 6 悦享版 98
 
 **华为 Vision 智慧屏 6 SE:**
 
@@ -2942,6 +2978,10 @@
 **华为擎云 H3540 (`Seiya`):**
 
 `SYA-B19B`: 华为擎云 H3540
+
+**华为擎云 H3550:**
+
+`NKI-B19B`: 华为擎云 H3550
 
 **华为擎云 H3Y10 (`Solo`):**
 
