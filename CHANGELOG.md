@@ -1,4 +1,8 @@
 # 更新日志
+### 2026-09-10
+- `apple` 新增 AirPods/AirTag/HomePod/Mac (仅 Apple Silicon) 型号。
+- `huawei_cn` 新增 华为智慧屏 S7 RGB。
+- `nubia` 新增 nubia NaviX Ultra。
 ### 2026-09-09
 - `xiaomi-wear` 新增 小米手环 11 Active。
 ### 2026-09-08

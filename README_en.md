@@ -6,15 +6,17 @@
 [![forks](https://img.shields.io/github/forks/KHwang9883/MobileModels.svg?color=orange)](https://github.com/KHwang9883/MobileModels)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+**English** | [中文](README.md)
+
 Collecting device names, models and internal codenames.
 
-[Issue submission](https://github.com/KHwang9883/MobileModels/issues) and [Pull Requests](https://github.com/KHwang9883/MobileModels/pulls) are welcomed if you find mistakes.
+[Issues](https://github.com/KHwang9883/MobileModels/issues) and [Pull Requests](https://github.com/KHwang9883/MobileModels/pulls) are welcome if you find errors/typos.
 
 Unlisted brands usually not include international models.
 
 | Name | Brand | Range |
 | :-: | :-: | :-: |
-| [apple_all_en](brands/apple_all_en.md) | Apple | iPhone, iPad, iPod touch, Apple Watch, Apple TV and Apple Vision |
+| [apple_all_en](brands/apple_all_en.md) | Apple | iPhone, iPad, iPod touch, Apple Watch, Apple TV, Apple Vision, AirPods, AirTag, HomePod and Mac (Apple Silicon) |
 | [asus_en](brands/asus_en.md) | ASUS | ROG Phone, Zenfone |
 | [blackshark_en](brands/blackshark_en.md) | Black Shark | All models |
 | [google](brands/google.md) | Google | Google Pixel phones, tablets & watch |
@@ -23,6 +25,7 @@ Unlisted brands usually not include international models.
 | [meizu_en](brands/meizu_en.md) | Meizu | All models |
 | [mitv_global_en](brands/mitv_global_en.md) | Xiaomi | All international/Indian Xiaomi & Redmi TV models (excluding Chinese models) |
 | [nothing](brands/nothing.md) | Nothing | All models |
+| [nubia_global_en](brands/_global_en.md) | Nubia | International models since 2023 |
 | [oneplus_en](brands/oneplus_en.md) | OnePlus | All models |
 | [oppo_global_en](brands/oppo_global_en.md) | OPPO | International models since 2018 |
 | [samsung_global_en](brands/samsung_global_en.md) | Samsung | International models since 2019 |

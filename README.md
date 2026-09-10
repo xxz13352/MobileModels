@@ -6,9 +6,11 @@
 [![forks](https://img.shields.io/github/forks/KHwang9883/MobileModels.svg?color=orange)](https://github.com/KHwang9883/MobileModels)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+**中文** | [English](README_en.md)
+
 汇总各厂商上市的手机型号与对应的传播名。
 
-[English](README_en.md)
+在线数据浏览 (Beta) 现已上线：https://mobilemodels.kevinh.wang/
 
 - ✅ 包含
 - ⏹ 仅部分包含
@@ -17,9 +19,9 @@
 | 名称 | 品牌 | 汇总范围 | codename | 海外机型 | 备注 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | [360shouji](brands/360shouji.md) | 360 手机 | 全部 360/奇酷手机 | ❌ | ❌ | -- |
-| [apple_all](brands/apple_all.md) | Apple | 全部 iPhone/iPad/iPod touch/Apple Watch/Apple TV/Apple Vision | ✅ | ✅ | -- |
-| [apple_all_en](brands/apple_all_en.md) | Apple | 全部 iPhone/iPad/iPod touch/Apple Watch/Apple TV/Apple Vision | ✅ | ✅ | 英文版 |
-| [apple_cn](brands/apple_cn.md) | Apple | 全部国行 iPhone/iPad/iPod touch/Apple Watch/Apple Vision | ✅ | ❌ | -- |
+| [apple_all](brands/apple_all.md) | Apple | 全部 iPhone/iPad/iPod touch/Apple Watch/Apple TV/Apple Vision/AirPods/AirTag/HomePod/Mac(Apple Silicon) | ✅ | ✅ | -- |
+| [apple_all_en](brands/apple_all_en.md) | Apple | 全部 iPhone/iPad/iPod touch/Apple Watch/Apple TV/Apple Vision/AirPods/AirTag/HomePod/Mac(Apple Silicon) | ✅ | ✅ | 英文版 |
+| [apple_cn](brands/apple_cn.md) | Apple | 全部国行 iPhone/iPad/iPod touch/Apple Watch/Apple Vision/AirPods/AirTag/HomePod/Mac(Apple Silicon) | ✅ | ❌ | -- |
 | [asus_cn](brands/asus_cn.md) | 华硕 (ASUS) | ROG Phone 等 | ✅ | ❌ | -- |
 | [asus_en](brands/asus_en.md) | 华硕 (ASUS) | ROG Phone/Zenfone | ✅ | ✅ | 英文版 |
 | [blackshark](brands/blackshark.md) | 黑鲨 (Black Shark) | 全部机型 | ✅ | ✅ | -- |
@@ -39,7 +41,8 @@
 | [motorola_cn](brands/motorola_cn.md) | 摩托罗拉 (Motorola) | 2015 年起上市的机型 | ✅ | ❌ | -- |
 | [nokia_cn](brands/nokia_cn.md) | 诺基亚 (Nokia) | 2017 年起由 HMD Global 制造的智能手机机型 | ✅ | ❌ | -- |
 | [nothing](brands/nothing.md) | Nothing | 全部机型 | ✅ | ✅ | 英文版 |
-| [nubia](brands/nubia.md) | 努比亚 (nubia) | 全部机型 | ❌ | ⏹ | -- |
+| [nubia_cn](brands/nubia_cn.md) | 努比亚 (nubia) | 全部国行机型 | ❌ | ❌ | -- |
+| [nubia_global_en](brands/nubia_global_en.md) | 努比亚 (nubia) | 2023 年起上市的海外机型 | ❌ | ✅ | -- |
 | [oneplus](brands/oneplus.md) | 一加 (OnePlus) | 全部机型 | ✅ | ✅ | -- |
 | [oneplus_en](brands/oneplus_en.md) | 一加 (OnePlus) | 全部机型 | ✅ | ✅ | 英文版 |
 | [oppo_cn](brands/oppo_cn.md) | OPPO | 2018 年起新型号命名方式的国行机型 | ⏹ | ❌ | -- |
