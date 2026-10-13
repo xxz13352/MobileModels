@@ -1288,6 +1288,12 @@
 
 `CHG-W60`: 荣耀平板 GT2 Pro 12.5 英寸 Wi-Fi 版
 
+## 荣耀平板 WIN 系列
+
+**荣耀 WIN 平板:**
+
+`HES-W00`: 荣耀 WIN 平板
+
 ## 荣耀平板 X 系列 / 荣耀畅玩平板
 
 **荣耀 X1:**
@@ -1378,9 +1384,13 @@
 
 **荣耀平板 X10 Pro Max (`Yaoming`):**
 
-`YAG-W09`: 荣耀平板 10 Pro Max 13 英寸 Wi-Fi 版
+`YAG-W09`: 荣耀平板 X10 Pro Max 13 英寸 Wi-Fi 版
 
-`YAG-W19`: 荣耀平板 10 Pro Max 柔光版 13 英寸 Wi-Fi 版
+`YAG-W19`: 荣耀平板 X10 Pro Max 柔光版 13 英寸 Wi-Fi 版
+
+**荣耀平板 X10 Mini:**
+
+`ONL-W09`: 荣耀平板 X10 Mini 9.7 英寸 Wi-Fi 版
 
 ## 荣耀平板学习机
 
