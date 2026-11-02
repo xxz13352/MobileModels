@@ -123,6 +123,8 @@
 
 `L55MB-AIN`: Xiaomi 4K TV X 55
 
+`L65MB-AIN`: Xiaomi 4K TV X 65
+
 **[`O39`] Xiaomi Smart TV F:**
 
 `L32MB-FIN`: Xiaomi Smart TV F 32
@@ -153,11 +155,11 @@
 
 `L65MA-SIN`: Xiaomi Smart TV X Pro QLED Series 65
 
-**Xiaomi QLED TV A Pro / Xiaomi Smart QLED TV:**
+**[`O39P`] Xiaomi QLED TV A Pro / Xiaomi Smart QLED TV:**
 
 `L32MB-APIN`: Xiaomi QLED TV A Pro 32 / Xiaomi Smart QLED TV G 32
 
-**Xiaomi QLED TV X Pro:**
+**[`O39P`] Xiaomi QLED TV X Pro:**
 
 `L43MB-APIN`: Xiaomi QLED TV X Pro 43 2025
 
@@ -167,7 +169,7 @@
 
 `L75MB-APIN`: Xiaomi QLED TV X Pro 75 2026
 
-**Xiaomi QLED TV F Pro / Xiaomi QLED TV FX Pro:**
+**[`O39P`] Xiaomi QLED TV F Pro / Xiaomi QLED TV FX Pro:**
 
 `L43MB-FPIN`: Xiaomi QLED TV FX Pro 43
 
@@ -177,7 +179,7 @@
 
 `O55M7-Z2IN`: Xiaomi OLED Vision TV 55
 
-**[`P32`] Xiaomi TV S Mini LED:**
+**[`P37`] Xiaomi TV S Mini LED:**
 
 `L55MC-IN`: Xiaomi TV S Mini LED 55
 
@@ -185,7 +187,7 @@
 
 `L75MC-IN`: Xiaomi TV S Mini LED 75
 
-**Xiaomi TV FX Mini LED:**
+**[`P37M`] Xiaomi TV FX Mini LED:**
 
 `L43MC-FSMIN`: Xiaomi TV FX Mini LED 43
 
@@ -617,6 +619,8 @@
 
 `L75MA-SEU`: Xiaomi TV A Pro 75 2025
 
+**[`O39P`] Xiaomi TV A Pro (Europe):**
+
 `L32MB-APEU`: Xiaomi TV A Pro 32 2026
 
 `L43MB-APEU`: Xiaomi TV A Pro 43 2026
@@ -638,6 +642,8 @@
 `L65MA-SRU`: Xiaomi TV A Pro 65 2025
 
 `L75MA-SRU`: Xiaomi TV A Pro 75 2025
+
+**[`O39P`] Xiaomi TV A Pro (Russia/Belarus/Kazakhstan):**
 
 `L32MB-APRU`: Xiaomi TV A Pro 32 2026
 
@@ -668,6 +674,8 @@
 `L65MA-STWN`: Xiaomi TV A Pro 65 2025
 
 `L75MA-STWN`: Xiaomi TV A Pro 75 2025
+
+**[`O39P`] Xiaomi TV A Pro (East Asia):**
 
 `L32MB-APEA`: Xiaomi TV A Pro 32 2026
 
@@ -713,6 +721,8 @@
 
 `L65MA-SSEA`: Xiaomi TV A Pro 65 2025
 
+**[`O39P`] Xiaomi TV A Pro (Southeast Asia):**
+
 `L32MB-APSEA`: Xiaomi TV A Pro 32 2026
 
 `L43MB-APSEA`: Xiaomi TV A Pro 43 2026
@@ -738,6 +748,8 @@
 `L55MA-SID`: Xiaomi TV A Pro 55 2025
 
 `L65MA-SID`: Xiaomi TV A Pro 65 2025
+
+**[`O39P`] Xiaomi TV A Pro (Indonesia):**
 
 `L32MB-APID`: Xiaomi TV A Pro 32 2026
 
@@ -769,6 +781,8 @@
 
 `L65MA-SME`: Xiaomi TV A Pro 65 2025
 
+**[`O39P`] Xiaomi TV A Pro (Ukraine/Middle East):**
+
 `L32MB-APME`: Xiaomi TV A Pro 32 2026
 
 `L43MB-APME`: Xiaomi TV A Pro 43 2026
@@ -781,7 +795,7 @@
 
 `L75MB-APME`: Xiaomi TV A Pro 75 2026
 
-**Xiaomi TV A Pro (Turkey):**
+**[`O39P`] Xiaomi TV A Pro (Turkey):**
 
 `L43MB-APTR`: Xiaomi TV A Pro 43 2026
 
@@ -815,6 +829,8 @@
 
 `L75MA-SPH`: Xiaomi TV A Pro 75 2025
 
+**[`O39P`] Xiaomi TV A Pro (Philippines/Chile/Peru):**
+
 `L32MB-APPH`: Xiaomi TV A Pro 32 2026
 
 `L43MB-APPH`: Xiaomi TV A Pro 43 2026
@@ -827,7 +843,7 @@
 
 `L75MB-APPH`: Xiaomi TV A Pro 75 2026
 
-**Xiaomi TV A Pro (Mexico):**
+**[`O39P`] Xiaomi TV A Pro (Mexico):**
 
 `L43MB-APMX`: Xiaomi TV A Pro 43 2026
 
@@ -839,7 +855,7 @@
 
 `L75MB-APMX`: Xiaomi TV A Pro 75 2026
 
-**Xiaomi TV F Pro (Europe):**
+**[`O39P`] Xiaomi TV F Pro (Europe):**
 
 `L32MB-FPEU`: Xiaomi TV F Pro 32 2026
 
@@ -884,6 +900,122 @@
 `L65MA-SPLME`: Xiaomi TV S Mini LED 65 2025
 
 `L75MA-SPLME`: Xiaomi TV S Mini LED 75 2025
+
+**[`P37`] Xiaomi TV S Mini LED (Europe):**
+
+`L55MC-SEU`: Xiaomi TV S Mini LED 55 2026
+
+`L65MC-SEU`: Xiaomi TV S Mini LED 65 2026
+
+`L75MC-SEU`: Xiaomi TV S Mini LED 75 2026
+
+`L85MC-SEU`: Xiaomi TV S Mini LED 85 2026
+
+`L98MC-SEU`: Xiaomi TV S Mini LED 98 2026
+
+**[`P37`] Xiaomi TV S Mini LED (Russia/Belarus/Kazakhstan):**
+
+`L55MC-SRU`: Xiaomi TV S Mini LED 55 2026
+
+`L65MC-SRU`: Xiaomi TV S Mini LED 65 2026
+
+`L75MC-SRU`: Xiaomi TV S Mini LED 75 2026
+
+`L85MC-SRU`: Xiaomi TV S Mini LED 85 2026
+
+`L98MC-SRU`: Xiaomi TV S Mini LED 98 2026
+
+**[`P37`] Xiaomi TV S Mini LED (East Asia):**
+
+`L55MC-STWN`: Xiaomi TV S Mini LED 55 2026
+
+`L65MC-STWN`: Xiaomi TV S Mini LED 65 2026
+
+`L75MC-STWN`: Xiaomi TV S Mini LED 75 2026
+
+`L85MC-STWN`: Xiaomi TV S Mini LED 85 2026
+
+`L98MC-STWN`: Xiaomi TV S Mini LED 98 2026
+
+**[`P37`] Xiaomi TV S Mini LED (Hong Kong SAR):**
+
+`L55MC-SHK`: Xiaomi TV S Mini LED 55 2026
+
+`L65MC-SHK`: Xiaomi TV S Mini LED 65 2026
+
+`L75MC-SHK`: Xiaomi TV S Mini LED 75 2026
+
+**[`P37`] Xiaomi TV S Mini LED (Japan tuner):**
+
+`L55MC-SJP`: Xiaomi TV S Mini LED 55 2026
+
+`L65MC-SJP`: Xiaomi TV S Mini LED 65 2026
+
+`L75MC-SJP`: Xiaomi TV S Mini LED 75 2026
+
+`L85MC-SJP`: Xiaomi TV S Mini LED 85 2026
+
+`L98MC-SJP`: Xiaomi TV S Mini LED 98 2026
+
+**[`P37`] Xiaomi TV S Mini LED (Southeast Asia):**
+
+`L55MC-SSEA`: Xiaomi TV S Mini LED 55 2026
+
+`L65MC-SSEA`: Xiaomi TV S Mini LED 65 2026
+
+`L75MC-SSEA`: Xiaomi TV S Mini LED 75 2026
+
+`L85MC-SSEA`: Xiaomi TV S Mini LED 85 2026
+
+`L98MC-SSEA`: Xiaomi TV S Mini LED 98 2026
+
+**[`P37`] Xiaomi TV S Mini LED (Australia/New Zealand):**
+
+`L55MC-SAU`: Xiaomi TV S Mini LED 55 2026
+
+`L65MC-SAU`: Xiaomi TV S Mini LED 65 2026
+
+`L75MC-SAU`: Xiaomi TV S Mini LED 75 2026
+
+`L85MC-SAU`: Xiaomi TV S Mini LED 85 2026
+
+`L98MC-SAU`: Xiaomi TV S Mini LED 98 2026
+
+**[`P37`] Xiaomi TV S Mini LED (Ukraine/Middle East):**
+
+`L55MC-SME`: Xiaomi TV S Mini LED 55 2026
+
+`L65MC-SME`: Xiaomi TV S Mini LED 65 2026
+
+`L75MC-SME`: Xiaomi TV S Mini LED 75 2026
+
+`L85MC-SME`: Xiaomi TV S Mini LED 85 2026
+
+`L98MC-SME`: Xiaomi TV S Mini LED 98 2026
+
+**[`P37`] Xiaomi TV S Mini LED (Philippines/Chile/Peru):**
+
+`L55MC-SPH`: Xiaomi TV S Mini LED 55 2026
+
+`L65MC-SPH`: Xiaomi TV S Mini LED 65 2026
+
+`L75MC-SPH`: Xiaomi TV S Mini LED 75 2026
+
+`L85MC-SPH`: Xiaomi TV S Mini LED 85 2026
+
+`L98MC-SPH`: Xiaomi TV S Mini LED 98 2026
+
+**[`P37`] Xiaomi TV S Mini LED (Mexico):**
+
+`L55MC-SMX`: Xiaomi TV S Mini LED 55 2026
+
+`L65MC-SMX`: Xiaomi TV S Mini LED 65 2026
+
+`L75MC-SMX`: Xiaomi TV S Mini LED 75 2026
+
+`L85MC-SMX`: Xiaomi TV S Mini LED 85 2026
+
+`L98MC-SMX`: Xiaomi TV S Mini LED 98 2026
 
 **[`O32`] Xiaomi TV S Pro Mini LED (Europe):**
 
@@ -941,121 +1073,55 @@
 
 `L75MB-SMX`: Xiaomi TV S Pro Mini LED 75 2026
 
-**[`P32`] Xiaomi TV S Mini LED (Europe):**
+**[`P37M`] Xiaomi TV X Mini LED (Europe):**
 
-`L55MC-SEU`: Xiaomi TV S Mini LED 55 2026
+`L43MC-SMEU`: Xiaomi TV X Mini LED 43
 
-`L65MC-SEU`: Xiaomi TV S Mini LED 65 2026
+`L55MC-SMEU`: Xiaomi TV X Mini LED 55
 
-`L75MC-SEU`: Xiaomi TV S Mini LED 75 2026
+`L65MC-SMEU`: Xiaomi TV X Mini LED 65
 
-`L85MC-SEU`: Xiaomi TV S Mini LED 85 2026
+`L75MC-SMEU`: Xiaomi TV X Mini LED 75
 
-`L98MC-SEU`: Xiaomi TV S Mini LED 98 2026
+**[`P37M`] Xiaomi TV X Mini LED (Russia/Belarus/Kazakhstan):**
 
-**[`P32`] Xiaomi TV S Mini LED (Russia/Belarus/Kazakhstan):**
+`L43MC-SMRU`: Xiaomi TV X Mini LED 43
 
-`L55MC-SRU`: Xiaomi TV S Mini LED 55 2026
+`L55MC-SMRU`: Xiaomi TV X Mini LED 55
 
-`L65MC-SRU`: Xiaomi TV S Mini LED 65 2026
+`L65MC-SMRU`: Xiaomi TV X Mini LED 65
 
-`L75MC-SRU`: Xiaomi TV S Mini LED 75 2026
+`L75MC-SMRU`: Xiaomi TV X Mini LED 75
 
-`L85MC-SRU`: Xiaomi TV S Mini LED 85 2026
+**[`P37M`] Xiaomi TV X Mini LED (Southeast Asia):**
 
-`L98MC-SRU`: Xiaomi TV S Mini LED 98 2026
+`L43MC-SMSEA`: Xiaomi TV X Mini LED 43
 
-**[`P32`] Xiaomi TV S Mini LED (East Asia):**
+`L55MC-SMSEA`: Xiaomi TV X Mini LED 55
 
-`L55MC-STWN`: Xiaomi TV S Mini LED 55 2026
+`L65MC-SMSEA`: Xiaomi TV X Mini LED 65
 
-`L65MC-STWN`: Xiaomi TV S Mini LED 65 2026
+`L75MC-SMSEA`: Xiaomi TV X Mini LED 75
 
-`L75MC-STWN`: Xiaomi TV S Mini LED 75 2026
+**[`P37M`] Xiaomi TV X Mini LED (Ukraine/Middle East):**
 
-`L85MC-STWN`: Xiaomi TV S Mini LED 85 2026
+`L43MC-SMME`: Xiaomi TV X Mini LED 43
 
-`L98MC-STWN`: Xiaomi TV S Mini LED 98 2026
+`L55MC-SMME`: Xiaomi TV X Mini LED 55
 
-**[`P32`] Xiaomi TV S Mini LED (Hong Kong SAR):**
+`L65MC-SMME`: Xiaomi TV X Mini LED 65
 
-`L55MC-SHK`: Xiaomi TV S Mini LED 55 2026
+`L75MC-SMME`: Xiaomi TV X Mini LED 75
 
-`L65MC-SHK`: Xiaomi TV S Mini LED 65 2026
+**[`P37M`] Xiaomi TV FX Mini LED (Europe):**
 
-`L75MC-SHK`: Xiaomi TV S Mini LED 75 2026
+`L43MC-FSMEU`: Xiaomi TV FX Mini LED 43
 
-**[`P32`] Xiaomi TV S Mini LED (Japan tuner):**
+`L55MC-FSMEU`: Xiaomi TV FX Mini LED 55
 
-`L55MC-SJP`: Xiaomi TV S Mini LED 55 2026
+`L65MC-FSMEU`: Xiaomi TV FX Mini LED 65
 
-`L65MC-SJP`: Xiaomi TV S Mini LED 65 2026
-
-`L75MC-SJP`: Xiaomi TV S Mini LED 75 2026
-
-`L85MC-SJP`: Xiaomi TV S Mini LED 85 2026
-
-`L98MC-SJP`: Xiaomi TV S Mini LED 98 2026
-
-**[`P32`] Xiaomi TV S Mini LED (Southeast Asia):**
-
-`L55MC-SSEA`: Xiaomi TV S Mini LED 55 2026
-
-`L65MC-SSEA`: Xiaomi TV S Mini LED 65 2026
-
-`L75MC-SSEA`: Xiaomi TV S Mini LED 75 2026
-
-`L85MC-SSEA`: Xiaomi TV S Mini LED 85 2026
-
-`L98MC-SSEA`: Xiaomi TV S Mini LED 98 2026
-
-**[`P32`] Xiaomi TV S Mini LED (Australia/New Zealand):**
-
-`L55MC-SAU`: Xiaomi TV S Mini LED 55 2026
-
-`L65MC-SAU`: Xiaomi TV S Mini LED 65 2026
-
-`L75MC-SAU`: Xiaomi TV S Mini LED 75 2026
-
-`L85MC-SAU`: Xiaomi TV S Mini LED 85 2026
-
-`L98MC-SAU`: Xiaomi TV S Mini LED 98 2026
-
-**[`P32`] Xiaomi TV S Mini LED (Ukraine/Middle East):**
-
-`L55MC-SME`: Xiaomi TV S Mini LED 55 2026
-
-`L65MC-SME`: Xiaomi TV S Mini LED 65 2026
-
-`L75MC-SME`: Xiaomi TV S Mini LED 75 2026
-
-`L85MC-SME`: Xiaomi TV S Mini LED 85 2026
-
-`L98MC-SME`: Xiaomi TV S Mini LED 98 2026
-
-**[`P32`] Xiaomi TV S Mini LED (Philippines/Chile/Peru):**
-
-`L55MC-SPH`: Xiaomi TV S Mini LED 55 2026
-
-`L65MC-SPH`: Xiaomi TV S Mini LED 65 2026
-
-`L75MC-SPH`: Xiaomi TV S Mini LED 75 2026
-
-`L85MC-SPH`: Xiaomi TV S Mini LED 85 2026
-
-`L98MC-SPH`: Xiaomi TV S Mini LED 98 2026
-
-**[`P32`] Xiaomi TV S Mini LED (Mexico):**
-
-`L55MC-SMX`: Xiaomi TV S Mini LED 55 2026
-
-`L65MC-SMX`: Xiaomi TV S Mini LED 65 2026
-
-`L75MC-SMX`: Xiaomi TV S Mini LED 75 2026
-
-`L85MC-SMX`: Xiaomi TV S Mini LED 85 2026
-
-`L98MC-SMX`: Xiaomi TV S Mini LED 98 2026
+`L75MC-FSMEU`: Xiaomi TV FX Mini LED 75
 
 **Xiaomi TV Max (Russia/Belarus/Kazakhstan):**
 
